@@ -4,6 +4,6 @@
 - 📫 How to reach me  : M.zubair2015@live.com
 
 <!---
-M-Zubairr/M-Zubairr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M-Zubairr/zubair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
